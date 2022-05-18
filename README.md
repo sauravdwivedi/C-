@@ -10,11 +10,7 @@ I write code to solve problems from:
 
 > Open terminal, cd to project directory
 
-> % go run <script_name>.go
-
-#### Format code
-
-> % go fmt <script_name>.go
+> % g++ <script_name>.cpp -o <script_name>.out
 
 #### Style guide
 
