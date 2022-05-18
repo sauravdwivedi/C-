@@ -14,4 +14,4 @@ I write code to solve problems from:
 
 #### Style guide
 
-- https://go.dev/doc/effective_go
+- https://google.github.io/styleguide/cppguide.html
