@@ -12,6 +12,8 @@ I write code to solve problems from:
 
 > % g++ <script_name>.cpp -o <script_name>.out
 
+> % ./<script_name>.out
+
 #### Style guide
 
 - https://google.github.io/styleguide/cppguide.html
