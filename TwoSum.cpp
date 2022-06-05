@@ -12,8 +12,8 @@ using namespace std;
 string TwoSum(int array_of_integers[], int lenght_of_array, int target_num) {
   bool result = false;
   for (int i = 0; i < lenght_of_array; i++) {
+    int p = array_of_integers[i];
     for (int j = 0; j < lenght_of_array; j++) {
-      int p = array_of_integers[i];
       int q = array_of_integers[j];
       if ((p != q) && (p+q == target_num)) {
         result = true;
